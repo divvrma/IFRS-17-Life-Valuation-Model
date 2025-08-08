@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
+
+# Editors
+.idea/
+.vscode/
+
