@@ -64,5 +64,5 @@ Why This Matters
 
 Contact
 
-- Author: Kanishka Verma (GitHub: @divvrma)
+- Author: Divyanshi Verma (GitHub: @divvrma)
 - Questions or feedback: Please open a GitHub issue or contact me via my profile.
